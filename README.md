@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm boey</h1>
 <h3 align="center">A dedicated machine learning individual exploring algorithms and data</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chboey&show_icons=true&theme=dark&locale=en&layout=compact" alt="chboey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chboey&show_icons=true&theme=dark&locale=en&layout=compact" alt="chboey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chboey&show_icons=true&theme=dark&locale=en" alt="chboey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chboey&theme=dark" alt="chboey" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=chboey&show_icons=true&theme=dark&locale=en" alt="chboey" /></p>
 
 Programming Languages:
 <p align="left">
@@ -115,6 +113,8 @@ Third-Party Software:
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chboey&theme=dark" alt="chboey" /></p>
 
 
 
