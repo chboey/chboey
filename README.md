@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=chboey&show_icons=true&theme=graywhite&locale=en" alt="chboey" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=chboey&show_icons=true&theme=vue&locale=en" alt="chboey" />
       </td>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chboey&show_icons=true&theme=graywhite&locale=en&layout=compact" alt="chboey" />
