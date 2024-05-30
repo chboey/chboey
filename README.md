@@ -14,7 +14,13 @@
   </table>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chboey&theme=light" alt="chboey" /></p>
+<table>
+  <tr>
+    <td>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chboey&theme=light" alt="chboey" /></p>
+    </td>
+  </tr>
+</table>
 
 Programming Languages:
 <p align="left">
