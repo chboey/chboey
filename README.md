@@ -14,6 +14,8 @@
   </table>
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chboey&theme=light" alt="chboey" /></p>
+
 Programming Languages:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -122,8 +124,6 @@ Third-Party Software:
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chboey&theme=light" alt="chboey" /></p>
 
 
 
