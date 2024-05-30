@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm boey</h1>
 <h3 align="center">A dedicated machine learning individual exploring algorithms and data</h3>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center">
   <table>
     <tr>
       <td>
