@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chboey&label=Profile%20views&color=0e75b6&style=flat" alt="chboey" /> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chboey&show_icons=true&theme=dark&locale=en&layout=compact" alt="chboey" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chboey&show_icons=true&theme=dark&locale=en&layout=compact" alt="chboey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chboey&show_icons=true&theme=dark&locale=en" alt="chboey" /></p>
 
