@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm boey</h1>
 <h3 align="center">A dedicated machine learning individual exploring algorithms and data</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chboey&show_icons=true&theme=dark&locale=en&layout=compact" alt="chboey" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chboey&show_icons=true&theme=dark&locale=en" alt="chboey" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chboey&show_icons=true&theme=dark&locale=en&layout=compact" alt="chboey" /></p>
 
 Programming Languages:
 <p align="left">
