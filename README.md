@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm boey</h1>
 <h3 align="center">A dedicated machine learning individual exploring algorithms and data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chboey&label=Profile%20views&color=0e75b6&style=flat" alt="chboey" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chboey&label=Profile%20views&color=0e75b6&style=flat" alt="chboey" /> </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chboey&show_icons=true&theme=dark&locale=en&layout=compact" alt="chboey" /></p>
 
