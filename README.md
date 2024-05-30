@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm boey</h1>
 <h3 align="center">A dedicated machine learning individual exploring algorithms and data</h3>
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=chboey&show_icons=true&theme=dark&locale=en" alt="chboey" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chboey&show_icons=true&theme=dark&locale=en&layout=compact" alt="chboey" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=chboey&show_icons=true&theme=dark&locale=en" alt="chboey" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chboey&show_icons=true&theme=dark&locale=en&layout=compact" alt="chboey" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 Programming Languages:
 <p align="left">
