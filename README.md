@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on [a LLM Password Generator](private)
-- 📫 How to reach me (private)
+- 📫 How to reach me [private](private)
 - 📄 Know about my experiences [resume](private)
 
 <div style="display: flex; justify-content: center">
