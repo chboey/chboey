@@ -116,5 +116,5 @@ Third-Party Software:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chboey&show_icons=true&theme=dark&locale=en" alt="chboey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chboey&theme=highcontrast" alt="chboey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chboey&theme=dark" alt="chboey" /></p>
 
